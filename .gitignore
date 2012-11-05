@@ -4,3 +4,8 @@
 *.jar
 *.war
 *.ear
+install-lib.txt
+.classpath
+.project
+.settings/
+target/
