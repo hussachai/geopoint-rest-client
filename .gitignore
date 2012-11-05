@@ -9,3 +9,4 @@ install-lib.txt
 .project
 .settings/
 target/
+src/test/resources/settings.properties
